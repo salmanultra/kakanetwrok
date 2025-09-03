@@ -1,0 +1,7 @@
+PyQt6
+dnspython
+whois
+requests
+psutil
+speedtest-cli
+scapy
