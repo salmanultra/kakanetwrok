@@ -4,7 +4,7 @@
 این نرم‌افزار برای مدیریت و تست شبکه، جمع‌آوری اطلاعات دامنه و سرور، و ابزارهای مفید شبکه‌ای طراحی شده است و دارای رابط کاربری مدرن و سبز رنگ است.
 
 <p align="center">
-  <img src="logo.jpg" alt="UI" width="600" height="400"/>
+  <img src="logo.jpg" alt="UI" width="600" height="600"/>
 </p>
 
 ## قابلیت‌ها:
@@ -33,5 +33,6 @@
 1. کلون کردن پروژه:
 ```bash
 git clone https://github.com/USERNAME/KAKANETWORK.git
+
 
 
